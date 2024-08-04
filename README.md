@@ -1,5 +1,5 @@
-![Banner-image6-889x500](https://github.com/user-attachments/assets/e742a052-ccd1-4dfb-815d-b63566af46c4)
 # 2024 Paris Olympics Judo Roulette
+![PARIS_2024](https://github.com/user-attachments/assets/c500e28a-8b21-4520-a742-fe76edd9de25)
 This program is designed to be used in the final round (round 7) of Judo mixed teams matches in the Olympics. The roulette _randomly_ selects a weight category for the deciding round in a visually engaging manner. 
 
 It includes the configuration to call up [**Teddy Riner**](https://www.instagram.com/teddyriner/) in case of French emergency.
