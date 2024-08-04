@@ -1,3 +1,4 @@
+![Banner-image6-889x500](https://github.com/user-attachments/assets/e742a052-ccd1-4dfb-815d-b63566af46c4)
 # 2024 Paris Olympics Judo Roulette
 This program is designed to be used in the final round (round 7) of Judo mixed teams matches in the Olympics. The roulette _randomly_ selects a weight category for the deciding round in a visually engaging manner. 
 
