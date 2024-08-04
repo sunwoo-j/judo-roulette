@@ -4,7 +4,7 @@ This program is designed to be used in the final round (round 7) of Judo mixed t
 
 It includes the configuration to call up [**Teddy Riner**](https://www.instagram.com/teddyriner/) in case of French emergency.
 
-## Screenshot
+## Layout
 <img width="539" alt="image" src="https://github.com/user-attachments/assets/066cf03d-fe36-4798-b232-8b7c753f8883">
 
 ## Weight Categories
