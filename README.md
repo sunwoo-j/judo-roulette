@@ -3,6 +3,9 @@ This program is designed to be used in the final rounds of Judo mixed teams matc
 
 It includes the configuration to call up [**Teddy Riner**](https://www.instagram.com/teddyriner/) in case of French emergency.
 
+## Screenshot
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/066cf03d-fe36-4798-b232-8b7c753f8883">
+
 ## Weight Categories
 The weight categories included in this roulette are:
 - +90 kg ♂ (Riner)
