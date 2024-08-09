@@ -15,7 +15,7 @@ The weight categories included in this roulette are:
 - -70 kg ♀
 - -73 kg ♂
 - -57 kg ♀
-
+ 
 <hr>
 
 © IOC - International Olympic Committee - Paris 2024
